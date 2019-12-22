@@ -1,0 +1,6 @@
+23 single
+14 single 
+45 double
+27 double 
+3 family
+9 family
